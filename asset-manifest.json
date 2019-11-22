@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/net_music/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/net_music/static/js/main.f3084762.chunk.js",
+    "main.js.map": "/net_music/static/js/main.f3084762.chunk.js.map",
+    "runtime-main.js": "/net_music/static/js/runtime-main.45671689.js",
+    "runtime-main.js.map": "/net_music/static/js/runtime-main.45671689.js.map",
+    "static/js/2.1d4bce7d.chunk.js": "/net_music/static/js/2.1d4bce7d.chunk.js",
+    "static/js/2.1d4bce7d.chunk.js.map": "/net_music/static/js/2.1d4bce7d.chunk.js.map",
+    "index.html": "/net_music/index.html",
+    "precache-manifest.d45704cf682817b5554ee9c3788cd837.js": "/net_music/precache-manifest.d45704cf682817b5554ee9c3788cd837.js",
+    "service-worker.js": "/net_music/service-worker.js",
+    "static/css/main.5e4e9510.chunk.css.map": "/net_music/static/css/main.5e4e9510.chunk.css.map",
+    "static/media/logo.svg": "/net_music/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45671689.js",
+    "static/js/2.1d4bce7d.chunk.js",
+    "static/css/main.5e4e9510.chunk.css",
+    "static/js/main.f3084762.chunk.js"
+  ]
+}
